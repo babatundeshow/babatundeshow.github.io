@@ -12,7 +12,7 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+This template showcases your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
 *A brief description of your project, the tools used, and the key insights derived.*
